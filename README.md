@@ -1,5 +1,4 @@
 - 👋 Hi, I’m  Ronaldo Nascimento
-- 👀 I’m interested in HTML, CSS, JavaScript, Java
 - 🌱 I’m currently learning Javascript, Html and CSS
 
 <!---
