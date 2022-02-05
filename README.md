@@ -8,7 +8,7 @@
 ### Olá! 👋 Bem vindo ao meu perfil
 
 - 🔭 Atualmente estou estudando O curso de Análise e desenvolvimento de Sistemas 
-- 🌱 Atualmente estou aprendendo TypeScript, 💙 React, Angular, Flutter, Spring Rest, Vue JS e Laravel
+- 🌱 Atualmente estou aprendendo TypeScript, 💙 React, Angular, HTML,CSS ,Javascript 
 - 📫 Como me contatar: ronaldonascimentosud@hotmail.com
 - ⚡ Apaixonado por novas tecnologias
 - 😎 Atualmente estou aprendendo inglês
