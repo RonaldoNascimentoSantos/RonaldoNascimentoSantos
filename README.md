@@ -7,8 +7,8 @@
 
 ### Olá! 👋 Bem vindo ao meu perfil
 
-- 🔭 Atualmente estou estudando O curso de Análise e desenvolvimento de Sistemas 
-- 🌱 Atualmente estou aprendendo React JS, 💙 TypeScript
+- 🔭 Graduado em  Análise e desenvolvimento de Sistemas 
+- 🌱 Tecnologias : HTML , CSS , JAVASCRIPT  React JS, NEXT JS 💙 TypeScript, SCRUM , KANBAN
 - 📫 Como me contatar: ronaldonascimentosud@hotmail.com
 - ⚡ Apaixonado por novas tecnologias
 - 😎 Atualmente estou aprendendo inglês
