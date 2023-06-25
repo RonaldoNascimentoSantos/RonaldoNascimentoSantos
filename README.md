@@ -7,7 +7,7 @@
 
 ### Olá! 👋 Bem vindo ao meu perfil
 
-- 🔭 Graduado em  Análise e desenvolvimento de Sistemas 
+- 🔭 Graduado em  Análise e Desenvolvimento de Sistemas 
 - 🌱 Tecnologias : HTML , CSS , JAVASCRIPT  React JS, NEXT JS 💙 TypeScript, SCRUM , KANBAN
 - 📫 Como me contatar: ronaldonascimentosud@hotmail.com
 - ⚡ Apaixonado por novas tecnologias
