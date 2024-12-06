@@ -1,4 +1,4 @@
-<h1>👋 &nbsp;Olá, eu sou Ronaldo, desenvolvedor Front-End apaixonado pelo que faz!</h1>
+<h1>👋 &nbsp;Olá, eu sou Ronaldo, desenvolvedor Full Stack apaixonado pelo que faz!</h1>
 <p align="center">
 <a href="https://portfoliodev2024.vercel.app/"><img src="https://img.shields.io/badge/-Ronaldo.Desenvolvedor-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/ronaldonascimento-desenvolvedor/"><img src="https://img.shields.io/badge/-Ronaldo Nascimento-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
